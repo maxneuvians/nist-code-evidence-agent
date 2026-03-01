@@ -62,8 +62,6 @@ curl -sL https://raw.githubusercontent.com/maxneuvians/nist-code-evidence-agent/
   -o .github/prompts/nist-evidence.assess.prompt.md
 ```
 
-> Replace `maxneuvians` with the GitHub organization or user that hosts this repo.
-
 ### Option B: clone and copy
 
 ```bash
